@@ -2,6 +2,10 @@
 
 For use by Be Found Online's clients to optimize reporting for Google Analytics 4 eCommerce.
 
+### Note on branch naming convention
+
+The default branch of this repository is named "bfo" in order to keep this repository public and out of Github search results.
+
 ## Events Supported
 
 | Action (Event Name) | Description                                                            |
